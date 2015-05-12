@@ -1,0 +1,6 @@
+F:\SoftUni\2\Homework\2.1 OOP\7. Common Type System\1. Customer\bin\Debug\_1.Customer.exe.config
+F:\SoftUni\2\Homework\2.1 OOP\7. Common Type System\1. Customer\obj\Debug\1. Customer.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.1 OOP\7. Common Type System\1. Customer\bin\Debug\_1.Customer.exe
+F:\SoftUni\2\Homework\2.1 OOP\7. Common Type System\1. Customer\bin\Debug\_1.Customer.pdb
+F:\SoftUni\2\Homework\2.1 OOP\7. Common Type System\1. Customer\obj\Debug\_1.Customer.exe
+F:\SoftUni\2\Homework\2.1 OOP\7. Common Type System\1. Customer\obj\Debug\_1.Customer.pdb
