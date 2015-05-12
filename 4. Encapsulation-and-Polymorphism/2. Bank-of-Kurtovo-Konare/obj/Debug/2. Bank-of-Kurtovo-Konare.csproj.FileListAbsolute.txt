@@ -1,0 +1,5 @@
+F:\SoftUni\2\Homework\2.1 OOP\4. Encapsulation-and-Polymorphism\2. Bank-of-Kurtovo-Konare\bin\Debug\_2.Bank_of_Kurtovo_Konare.exe.config
+F:\SoftUni\2\Homework\2.1 OOP\4. Encapsulation-and-Polymorphism\2. Bank-of-Kurtovo-Konare\bin\Debug\_2.Bank_of_Kurtovo_Konare.exe
+F:\SoftUni\2\Homework\2.1 OOP\4. Encapsulation-and-Polymorphism\2. Bank-of-Kurtovo-Konare\bin\Debug\_2.Bank_of_Kurtovo_Konare.pdb
+F:\SoftUni\2\Homework\2.1 OOP\4. Encapsulation-and-Polymorphism\2. Bank-of-Kurtovo-Konare\obj\Debug\_2.Bank_of_Kurtovo_Konare.exe
+F:\SoftUni\2\Homework\2.1 OOP\4. Encapsulation-and-Polymorphism\2. Bank-of-Kurtovo-Konare\obj\Debug\_2.Bank_of_Kurtovo_Konare.pdb
