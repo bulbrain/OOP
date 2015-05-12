@@ -1,0 +1,5 @@
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\2. LaptopShop\obj\Debug\2. LaptopShop.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\2. LaptopShop\bin\Debug\_2.LaptopShop.exe
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\2. LaptopShop\bin\Debug\_2.LaptopShop.pdb
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\2. LaptopShop\obj\Debug\_2.LaptopShop.exe
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\2. LaptopShop\obj\Debug\_2.LaptopShop.pdb

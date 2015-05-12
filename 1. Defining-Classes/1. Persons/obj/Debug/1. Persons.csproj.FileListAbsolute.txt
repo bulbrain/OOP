@@ -1,0 +1,5 @@
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\1. Persons\obj\Debug\1. Persons.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\1. Persons\bin\Debug\_1.Persons.exe
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\1. Persons\bin\Debug\_1.Persons.pdb
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\1. Persons\obj\Debug\_1.Persons.exe
+F:\SoftUni\2\Homework\2.1 OOP\1. Defining-Classes\1. Persons\obj\Debug\_1.Persons.pdb
