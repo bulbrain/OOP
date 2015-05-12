@@ -1,0 +1,6 @@
+F:\SoftUni\2\Homework\2.1 OOP\6. Functional-Programming\1. StringBuilder-Extensions\bin\Debug\_1.StringBuilder_Extensions.exe.config
+F:\SoftUni\2\Homework\2.1 OOP\6. Functional-Programming\1. StringBuilder-Extensions\obj\Debug\1. StringBuilder-Extensions.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.1 OOP\6. Functional-Programming\1. StringBuilder-Extensions\bin\Debug\_1.StringBuilder_Extensions.exe
+F:\SoftUni\2\Homework\2.1 OOP\6. Functional-Programming\1. StringBuilder-Extensions\bin\Debug\_1.StringBuilder_Extensions.pdb
+F:\SoftUni\2\Homework\2.1 OOP\6. Functional-Programming\1. StringBuilder-Extensions\obj\Debug\_1.StringBuilder_Extensions.exe
+F:\SoftUni\2\Homework\2.1 OOP\6. Functional-Programming\1. StringBuilder-Extensions\obj\Debug\_1.StringBuilder_Extensions.pdb
