@@ -1,0 +1,6 @@
+F:\SoftUni\2\Homework\2.1 OOP\5. Delegates-and-Events\2. AsynchronousTimer\bin\Debug\_2.AsynchronousTimer.exe.config
+F:\SoftUni\2\Homework\2.1 OOP\5. Delegates-and-Events\2. AsynchronousTimer\bin\Debug\_2.AsynchronousTimer.exe
+F:\SoftUni\2\Homework\2.1 OOP\5. Delegates-and-Events\2. AsynchronousTimer\bin\Debug\_2.AsynchronousTimer.pdb
+F:\SoftUni\2\Homework\2.1 OOP\5. Delegates-and-Events\2. AsynchronousTimer\obj\Debug\2. AsynchronousTimer.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.1 OOP\5. Delegates-and-Events\2. AsynchronousTimer\obj\Debug\_2.AsynchronousTimer.exe
+F:\SoftUni\2\Homework\2.1 OOP\5. Delegates-and-Events\2. AsynchronousTimer\obj\Debug\_2.AsynchronousTimer.pdb
