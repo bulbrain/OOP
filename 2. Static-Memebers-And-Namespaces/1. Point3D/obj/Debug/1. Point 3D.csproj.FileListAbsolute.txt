@@ -1,0 +1,8 @@
+F:\SoftUni\2\Homework\2.1 OOP\Static-Memebers-And-Namespaces\Static-Memebers-And-Namespaces\obj\Debug\1. Point 3D.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.1 OOP\Static-Memebers-And-Namespaces\Static-Memebers-And-Namespaces\bin\Debug\Static-Memebers-And-Namespaces.exe.config
+F:\SoftUni\2\Homework\2.1 OOP\Static-Memebers-And-Namespaces\Static-Memebers-And-Namespaces\bin\Debug\Static-Memebers-And-Namespaces.exe
+F:\SoftUni\2\Homework\2.1 OOP\Static-Memebers-And-Namespaces\Static-Memebers-And-Namespaces\bin\Debug\Static-Memebers-And-Namespaces.pdb
+F:\SoftUni\2\Homework\2.1 OOP\Static-Memebers-And-Namespaces\Static-Memebers-And-Namespaces\obj\Debug\Static-Memebers-And-Namespaces.exe
+F:\SoftUni\2\Homework\2.1 OOP\Static-Memebers-And-Namespaces\Static-Memebers-And-Namespaces\obj\Debug\Static-Memebers-And-Namespaces.pdb
+F:\SoftUni\2\Homework\2.1 OOP\2. Static-Memebers-And-Namespaces\1. Point3D\obj\Debug\Static-Memebers-And-Namespaces.exe
+F:\SoftUni\2\Homework\2.1 OOP\2. Static-Memebers-And-Namespaces\1. Point3D\obj\Debug\Static-Memebers-And-Namespaces.pdb

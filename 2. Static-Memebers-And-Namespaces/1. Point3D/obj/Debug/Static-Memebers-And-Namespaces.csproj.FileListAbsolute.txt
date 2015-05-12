@@ -1,0 +1,1 @@
+F:\SoftUni\2\Homework\2.1 OOP\Static-Memebers-And-Namespaces\Static-Memebers-And-Namespaces\bin\Debug\Static-Memebers-And-Namespaces.exe.config
