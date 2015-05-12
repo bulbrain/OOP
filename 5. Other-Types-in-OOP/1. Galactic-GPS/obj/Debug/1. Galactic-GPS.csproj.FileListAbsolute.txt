@@ -1,0 +1,6 @@
+F:\SoftUni\2\Homework\2.1 OOP\5. Other-Types-in-OOP\1. Galactic-GPS\bin\Debug\_1.Galactic_GPS.exe.config
+F:\SoftUni\2\Homework\2.1 OOP\5. Other-Types-in-OOP\1. Galactic-GPS\obj\Debug\1. Galactic-GPS.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.1 OOP\5. Other-Types-in-OOP\1. Galactic-GPS\bin\Debug\_1.Galactic_GPS.exe
+F:\SoftUni\2\Homework\2.1 OOP\5. Other-Types-in-OOP\1. Galactic-GPS\bin\Debug\_1.Galactic_GPS.pdb
+F:\SoftUni\2\Homework\2.1 OOP\5. Other-Types-in-OOP\1. Galactic-GPS\obj\Debug\_1.Galactic_GPS.exe
+F:\SoftUni\2\Homework\2.1 OOP\5. Other-Types-in-OOP\1. Galactic-GPS\obj\Debug\_1.Galactic_GPS.pdb
